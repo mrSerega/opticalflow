@@ -14,3 +14,11 @@ white dot on the image representing the FOE.
 
 The included video2images.sh script and jpegtoavi binaries can aid in
 converting a video to a series of PGM files.
+
+# How to build and use
+## Windows
+1. You need to install Mingw utils
+2. You need to install MPlayer
+3. Use `make Makefile`
+4. Преобразовать ролик в массив pgm картинок при помщои скрипта `video2images.sh`
+5. Запустить test.exe передав аргументами префикс для названия временных файлов и исходные изображения
