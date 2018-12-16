@@ -1,7 +1,10 @@
-rm -rf pgm_sample
+echo 'usage: start.sh <sample_name> [online|offline] [new]'
 
-mkdir -p pgm_sample
+if [[ "$3" = "new" ]]
+then
+./prepare.sh $1
+fi
 
-./mplayer/mplayer.exe -vo pnm:pgm:outdir=pgm_sample $1
+python draw_foe.py $1 $2 > start_log.txt
 
-./detect/test ./output ./pgm_sample/*
+read ww

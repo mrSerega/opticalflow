@@ -1,0 +1,602 @@
+second image is ./pgm_sample/2.avi/00000002.pgm 3
+0.099712 0.072707
+second image is ./pgm_sample/2.avi/00000003.pgm 4
+0.061967 0.078338
+second image is ./pgm_sample/2.avi/00000004.pgm 5
+0.064091 0.073792
+second image is ./pgm_sample/2.avi/00000005.pgm 6
+0.053589 0.072562
+second image is ./pgm_sample/2.avi/00000006.pgm 7
+0.279649 1.875914
+second image is ./pgm_sample/2.avi/00000007.pgm 8
+0.857514 0.897786
+second image is ./pgm_sample/2.avi/00000008.pgm 9
+0.233305 0.075098
+second image is ./pgm_sample/2.avi/00000009.pgm 10
+0.355861 0.089631
+second image is ./pgm_sample/2.avi/00000010.pgm 11
+0.219476 0.074469
+second image is ./pgm_sample/2.avi/00000011.pgm 12
+0.374475 0.182525
+second image is ./pgm_sample/2.avi/00000012.pgm 13
+0.668388 0.766381
+second image is ./pgm_sample/2.avi/00000013.pgm 14
+0.424208 0.766639
+second image is ./pgm_sample/2.avi/00000014.pgm 15
+0.243581 0.209656
+second image is ./pgm_sample/2.avi/00000015.pgm 16
+0.191186 0.209218
+second image is ./pgm_sample/2.avi/00000016.pgm 17
+0.650071 0.778228
+second image is ./pgm_sample/2.avi/00000017.pgm 18
+0.478929 0.753199
+second image is ./pgm_sample/2.avi/00000018.pgm 19
+2.458372 0.492506
+second image is ./pgm_sample/2.avi/00000019.pgm 20
+0.457724 0.200806
+second image is ./pgm_sample/2.avi/00000020.pgm 21
+0.444067 0.339789
+second image is ./pgm_sample/2.avi/00000021.pgm 22
+0.941454 0.800091
+second image is ./pgm_sample/2.avi/00000022.pgm 23
+0.993746 0.807714
+second image is ./pgm_sample/2.avi/00000023.pgm 24
+1.065772 0.706088
+second image is ./pgm_sample/2.avi/00000024.pgm 25
+0.265595 1.128693
+second image is ./pgm_sample/2.avi/00000025.pgm 26
+0.264783 0.413734
+second image is ./pgm_sample/2.avi/00000026.pgm 27
+0.286526 0.255734
+second image is ./pgm_sample/2.avi/00000027.pgm 28
+0.343912 0.265049
+second image is ./pgm_sample/2.avi/00000028.pgm 29
+0.325651 0.519151
+second image is ./pgm_sample/2.avi/00000029.pgm 30
+0.849401 0.839864
+second image is ./pgm_sample/2.avi/00000030.pgm 31
+1.061016 4.271076
+second image is ./pgm_sample/2.avi/00000031.pgm 32
+1.049273 4.273627
+second image is ./pgm_sample/2.avi/00000032.pgm 33
+0.279702 0.472754
+second image is ./pgm_sample/2.avi/00000033.pgm 34
+0.397076 1.214095
+second image is ./pgm_sample/2.avi/00000034.pgm 35
+0.379518 0.615616
+second image is ./pgm_sample/2.avi/00000035.pgm 36
+0.315482 0.738579
+second image is ./pgm_sample/2.avi/00000036.pgm 37
+0.356501 0.538214
+second image is ./pgm_sample/2.avi/00000037.pgm 38
+0.535722 0.542906
+second image is ./pgm_sample/2.avi/00000038.pgm 39
+0.503781 0.638658
+second image is ./pgm_sample/2.avi/00000039.pgm 40
+0.999350 0.635789
+second image is ./pgm_sample/2.avi/00000040.pgm 41
+0.999140 1.699511
+second image is ./pgm_sample/2.avi/00000041.pgm 42
+0.347932 0.655340
+second image is ./pgm_sample/2.avi/00000042.pgm 43
+0.622668 0.722083
+second image is ./pgm_sample/2.avi/00000043.pgm 44
+0.603448 0.643494
+second image is ./pgm_sample/2.avi/00000044.pgm 45
+0.422927 0.735243
+second image is ./pgm_sample/2.avi/00000045.pgm 46
+0.278223 0.725553
+second image is ./pgm_sample/2.avi/00000046.pgm 47
+0.703204 0.629513
+second image is ./pgm_sample/2.avi/00000047.pgm 48
+0.687168 0.682887
+second image is ./pgm_sample/2.avi/00000048.pgm 49
+1.748894 1.558249
+second image is ./pgm_sample/2.avi/00000049.pgm 50
+1.710195 1.536054
+second image is ./pgm_sample/2.avi/00000050.pgm 51
+0.321219 0.404441
+second image is ./pgm_sample/2.avi/00000051.pgm 52
+0.297881 0.312538
+second image is ./pgm_sample/2.avi/00000052.pgm 53
+0.405506 1.266288
+second image is ./pgm_sample/2.avi/00000053.pgm 54
+0.425081 1.241392
+second image is ./pgm_sample/2.avi/00000054.pgm 55
+1.406605 0.711515
+second image is ./pgm_sample/2.avi/00000055.pgm 56
+1.210397 0.713969
+second image is ./pgm_sample/2.avi/00000056.pgm 57
+0.359275 0.717425
+second image is ./pgm_sample/2.avi/00000057.pgm 58
+0.319651 0.699570
+second image is ./pgm_sample/2.avi/00000058.pgm 59
+1.271274 0.876719
+second image is ./pgm_sample/2.avi/00000059.pgm 60
+1.211154 0.963336
+second image is ./pgm_sample/2.avi/00000060.pgm 61
+0.707240 0.706698
+second image is ./pgm_sample/2.avi/00000061.pgm 62
+0.700620 0.681260
+second image is ./pgm_sample/2.avi/00000062.pgm 63
+0.412528 0.762213
+second image is ./pgm_sample/2.avi/00000063.pgm 64
+0.469006 0.767355
+second image is ./pgm_sample/2.avi/00000064.pgm 65
+0.273149 0.727041
+second image is ./pgm_sample/2.avi/00000065.pgm 66
+0.363636 0.743177
+second image is ./pgm_sample/2.avi/00000066.pgm 67
+0.366236 0.727935
+second image is ./pgm_sample/2.avi/00000067.pgm 68
+0.263978 0.731274
+second image is ./pgm_sample/2.avi/00000068.pgm 69
+1.134892 2.714159
+second image is ./pgm_sample/2.avi/00000069.pgm 70
+1.098101 2.717774
+second image is ./pgm_sample/2.avi/00000070.pgm 71
+0.758955 0.625803
+second image is ./pgm_sample/2.avi/00000071.pgm 72
+0.273648 0.627633
+second image is ./pgm_sample/2.avi/00000072.pgm 73
+0.239165 0.541096
+second image is ./pgm_sample/2.avi/00000073.pgm 74
+1.297922 0.711607
+second image is ./pgm_sample/2.avi/00000074.pgm 75
+0.411334 0.602930
+second image is ./pgm_sample/2.avi/00000075.pgm 76
+0.383507 0.599424
+second image is ./pgm_sample/2.avi/00000076.pgm 77
+1.280484 0.471813
+second image is ./pgm_sample/2.avi/00000077.pgm 78
+0.932841 0.461935
+second image is ./pgm_sample/2.avi/00000078.pgm 79
+0.395475 0.603214
+second image is ./pgm_sample/2.avi/00000079.pgm 80
+0.396476 0.599178
+second image is ./pgm_sample/2.avi/00000080.pgm 81
+0.241071 0.600068
+second image is ./pgm_sample/2.avi/00000081.pgm 82
+0.271384 0.595187
+second image is ./pgm_sample/2.avi/00000082.pgm 83
+0.418808 0.597406
+second image is ./pgm_sample/2.avi/00000083.pgm 84
+0.388117 0.599782
+second image is ./pgm_sample/2.avi/00000084.pgm 85
+1.112743 0.598761
+second image is ./pgm_sample/2.avi/00000085.pgm 86
+1.130817 0.584421
+second image is ./pgm_sample/2.avi/00000086.pgm 87
+0.338514 0.600758
+second image is ./pgm_sample/2.avi/00000087.pgm 88
+0.386902 0.599491
+second image is ./pgm_sample/2.avi/00000088.pgm 89
+1.060731 0.602612
+second image is ./pgm_sample/2.avi/00000089.pgm 90
+1.073696 0.601163
+second image is ./pgm_sample/2.avi/00000090.pgm 91
+0.326533 0.601037
+second image is ./pgm_sample/2.avi/00000091.pgm 92
+0.399019 0.599185
+second image is ./pgm_sample/2.avi/00000092.pgm 93
+0.239751 0.600936
+second image is ./pgm_sample/2.avi/00000093.pgm 94
+0.367050 0.754161
+second image is ./pgm_sample/2.avi/00000094.pgm 95
+0.405054 0.601178
+second image is ./pgm_sample/2.avi/00000095.pgm 96
+0.360491 0.687890
+second image is ./pgm_sample/2.avi/00000096.pgm 97
+0.403420 0.687702
+second image is ./pgm_sample/2.avi/00000097.pgm 98
+0.388826 0.593789
+second image is ./pgm_sample/2.avi/00000098.pgm 99
+0.391018 0.600915
+second image is ./pgm_sample/2.avi/00000099.pgm 100
+0.329067 0.599610
+second image is ./pgm_sample/2.avi/00000100.pgm 101
+0.722981 1.212826
+second image is ./pgm_sample/2.avi/00000101.pgm 102
+0.728034 0.664730
+second image is ./pgm_sample/2.avi/00000102.pgm 103
+0.498660 0.600961
+second image is ./pgm_sample/2.avi/00000103.pgm 104
+0.439822 0.599062
+second image is ./pgm_sample/2.avi/00000104.pgm 105
+1.522532 0.598986
+second image is ./pgm_sample/2.avi/00000105.pgm 106
+0.895980 2.220913
+second image is ./pgm_sample/2.avi/00000106.pgm 107
+0.321711 0.595461
+second image is ./pgm_sample/2.avi/00000107.pgm 108
+0.439102 0.592436
+second image is ./pgm_sample/2.avi/00000108.pgm 109
+0.514896 0.668180
+second image is ./pgm_sample/2.avi/00000109.pgm 110
+0.387189 0.252379
+second image is ./pgm_sample/2.avi/00000110.pgm 111
+0.593216 0.596824
+second image is ./pgm_sample/2.avi/00000111.pgm 112
+0.594178 0.782244
+second image is ./pgm_sample/2.avi/00000112.pgm 113
+0.439727 0.755512
+second image is ./pgm_sample/2.avi/00000113.pgm 114
+0.368654 0.594312
+second image is ./pgm_sample/2.avi/00000114.pgm 115
+0.325808 0.597237
+second image is ./pgm_sample/2.avi/00000115.pgm 116
+0.276663 0.598507
+second image is ./pgm_sample/2.avi/00000116.pgm 117
+0.267637 0.293990
+second image is ./pgm_sample/2.avi/00000117.pgm 118
+0.282707 0.290405
+second image is ./pgm_sample/2.avi/00000118.pgm 119
+0.329152 0.178574
+second image is ./pgm_sample/2.avi/00000119.pgm 120
+0.322254 0.872695
+second image is ./pgm_sample/2.avi/00000120.pgm 121
+0.383194 0.964354
+second image is ./pgm_sample/2.avi/00000121.pgm 122
+0.387193 0.372384
+second image is ./pgm_sample/2.avi/00000122.pgm 123
+0.578717 0.392375
+second image is ./pgm_sample/2.avi/00000123.pgm 124
+0.621955 0.395443
+second image is ./pgm_sample/2.avi/00000124.pgm 125
+0.345554 0.326362
+second image is ./pgm_sample/2.avi/00000125.pgm 126
+0.754418 0.823088
+second image is ./pgm_sample/2.avi/00000126.pgm 127
+0.590813 0.913300
+second image is ./pgm_sample/2.avi/00000127.pgm 128
+0.273945 0.474301
+second image is ./pgm_sample/2.avi/00000128.pgm 129
+0.320925 0.690237
+second image is ./pgm_sample/2.avi/00000129.pgm 130
+0.374697 0.397647
+second image is ./pgm_sample/2.avi/00000130.pgm 131
+0.375060 0.333579
+second image is ./pgm_sample/2.avi/00000131.pgm 132
+0.435172 0.560909
+second image is ./pgm_sample/2.avi/00000132.pgm 133
+0.435127 0.720575
+second image is ./pgm_sample/2.avi/00000133.pgm 134
+0.277450 0.215079
+second image is ./pgm_sample/2.avi/00000134.pgm 135
+0.634640 2.162220
+second image is ./pgm_sample/2.avi/00000135.pgm 136
+0.593142 2.149937
+second image is ./pgm_sample/2.avi/00000136.pgm 137
+0.349556 1.297375
+second image is ./pgm_sample/2.avi/00000137.pgm 138
+0.272125 1.297899
+second image is ./pgm_sample/2.avi/00000138.pgm 139
+0.239089 0.197371
+second image is ./pgm_sample/2.avi/00000139.pgm 140
+0.262054 0.206211
+second image is ./pgm_sample/2.avi/00000140.pgm 141
+0.238637 0.225976
+second image is ./pgm_sample/2.avi/00000141.pgm 142
+0.270812 0.215243
+second image is ./pgm_sample/2.avi/00000142.pgm 143
+0.329312 0.195331
+second image is ./pgm_sample/2.avi/00000143.pgm 144
+0.265378 0.155794
+second image is ./pgm_sample/2.avi/00000144.pgm 145
+0.373339 0.280295
+second image is ./pgm_sample/2.avi/00000145.pgm 146
+0.632284 0.270026
+second image is ./pgm_sample/2.avi/00000146.pgm 147
+0.965165 0.371165
+second image is ./pgm_sample/2.avi/00000147.pgm 148
+0.942327 0.854953
+second image is ./pgm_sample/2.avi/00000148.pgm 149
+0.958470 0.855699
+second image is ./pgm_sample/2.avi/00000149.pgm 150
+1.324129 0.717854
+second image is ./pgm_sample/2.avi/00000150.pgm 151
+0.327646 0.195903
+second image is ./pgm_sample/2.avi/00000151.pgm 152
+0.260994 0.179840
+second image is ./pgm_sample/2.avi/00000152.pgm 153
+0.389955 0.360830
+second image is ./pgm_sample/2.avi/00000153.pgm 154
+0.441723 0.443913
+second image is ./pgm_sample/2.avi/00000154.pgm 155
+0.324910 0.290148
+second image is ./pgm_sample/2.avi/00000155.pgm 156
+0.276047 0.364907
+second image is ./pgm_sample/2.avi/00000156.pgm 157
+0.891010 0.316003
+second image is ./pgm_sample/2.avi/00000157.pgm 158
+0.859254 0.308466
+second image is ./pgm_sample/2.avi/00000158.pgm 159
+0.327713 0.296253
+second image is ./pgm_sample/2.avi/00000159.pgm 160
+0.261934 0.738236
+second image is ./pgm_sample/2.avi/00000160.pgm 161
+0.357283 1.536818
+second image is ./pgm_sample/2.avi/00000161.pgm 162
+0.359105 1.528045
+second image is ./pgm_sample/2.avi/00000162.pgm 163
+0.343380 0.322887
+second image is ./pgm_sample/2.avi/00000163.pgm 164
+0.435038 0.769035
+second image is ./pgm_sample/2.avi/00000164.pgm 165
+0.857348 0.534163
+second image is ./pgm_sample/2.avi/00000165.pgm 166
+0.834023 0.308539
+second image is ./pgm_sample/2.avi/00000166.pgm 167
+0.389147 0.294854
+second image is ./pgm_sample/2.avi/00000167.pgm 168
+0.366254 0.295187
+second image is ./pgm_sample/2.avi/00000168.pgm 169
+0.369943 0.362258
+second image is ./pgm_sample/2.avi/00000169.pgm 170
+0.372976 0.781919
+second image is ./pgm_sample/2.avi/00000170.pgm 171
+0.411044 0.647701
+second image is ./pgm_sample/2.avi/00000171.pgm 172
+0.310747 0.297881
+second image is ./pgm_sample/2.avi/00000172.pgm 173
+0.637967 0.402557
+second image is ./pgm_sample/2.avi/00000173.pgm 174
+0.630115 0.391523
+second image is ./pgm_sample/2.avi/00000174.pgm 175
+0.239089 0.266729
+second image is ./pgm_sample/2.avi/00000175.pgm 176
+0.400249 0.280832
+second image is ./pgm_sample/2.avi/00000176.pgm 177
+0.449652 0.364685
+second image is ./pgm_sample/2.avi/00000177.pgm 178
+0.432433 0.364048
+second image is ./pgm_sample/2.avi/00000178.pgm 179
+0.392314 0.230051
+second image is ./pgm_sample/2.avi/00000179.pgm 180
+0.343711 0.207153
+second image is ./pgm_sample/2.avi/00000180.pgm 181
+1.611873 0.750135
+second image is ./pgm_sample/2.avi/00000181.pgm 182
+1.614302 0.754921
+second image is ./pgm_sample/2.avi/00000182.pgm 183
+0.328640 0.143712
+second image is ./pgm_sample/2.avi/00000183.pgm 184
+0.261368 0.171604
+second image is ./pgm_sample/2.avi/00000184.pgm 185
+0.497129 0.673691
+second image is ./pgm_sample/2.avi/00000185.pgm 186
+0.516662 0.520489
+second image is ./pgm_sample/2.avi/00000186.pgm 187
+0.328628 0.139702
+second image is ./pgm_sample/2.avi/00000187.pgm 188
+0.400853 1.272374
+second image is ./pgm_sample/2.avi/00000188.pgm 189
+0.240017 0.386331
+second image is ./pgm_sample/2.avi/00000189.pgm 190
+0.262314 0.388428
+second image is ./pgm_sample/2.avi/00000190.pgm 191
+0.235817 0.239772
+second image is ./pgm_sample/2.avi/00000191.pgm 192
+0.272945 0.340254
+second image is ./pgm_sample/2.avi/00000192.pgm 193
+0.370676 0.340320
+second image is ./pgm_sample/2.avi/00000193.pgm 194
+0.712405 0.328780
+second image is ./pgm_sample/2.avi/00000194.pgm 195
+0.339808 0.329026
+second image is ./pgm_sample/2.avi/00000195.pgm 196
+0.348280 0.541867
+second image is ./pgm_sample/2.avi/00000196.pgm 197
+0.352027 0.973610
+second image is ./pgm_sample/2.avi/00000197.pgm 198
+0.504103 0.401109
+second image is ./pgm_sample/2.avi/00000198.pgm 199
+0.325320 0.232693
+second image is ./pgm_sample/2.avi/00000199.pgm 200
+0.413949 0.191716
+second image is ./pgm_sample/2.avi/00000200.pgm 201
+0.235502 0.309933
+second image is ./pgm_sample/2.avi/00000201.pgm 202
+0.260540 0.316350
+second image is ./pgm_sample/2.avi/00000202.pgm 203
+2.179992 2.018850
+second image is ./pgm_sample/2.avi/00000203.pgm 204
+0.259550 0.146743
+second image is ./pgm_sample/2.avi/00000204.pgm 205
+0.412623 0.260856
+second image is ./pgm_sample/2.avi/00000205.pgm 206
+0.416122 0.289578
+second image is ./pgm_sample/2.avi/00000206.pgm 207
+0.331866 0.265507
+second image is ./pgm_sample/2.avi/00000207.pgm 208
+0.611278 1.391112
+second image is ./pgm_sample/2.avi/00000208.pgm 209
+8.073200 11.898843
+second image is ./pgm_sample/2.avi/00000209.pgm 210
+8.023611 11.888741
+second image is ./pgm_sample/2.avi/00000210.pgm 211
+0.239055 0.276408
+second image is ./pgm_sample/2.avi/00000211.pgm 212
+0.482271 0.299429
+second image is ./pgm_sample/2.avi/00000212.pgm 213
+0.480278 0.301114
+second image is ./pgm_sample/2.avi/00000213.pgm 214
+0.301291 0.284965
+second image is ./pgm_sample/2.avi/00000214.pgm 215
+0.310697 0.136988
+second image is ./pgm_sample/2.avi/00000215.pgm 216
+0.567160 1.441770
+second image is ./pgm_sample/2.avi/00000216.pgm 217
+0.563235 1.444743
+second image is ./pgm_sample/2.avi/00000217.pgm 218
+0.373823 0.291675
+second image is ./pgm_sample/2.avi/00000218.pgm 219
+0.239778 0.232161
+second image is ./pgm_sample/2.avi/00000219.pgm 220
+0.269424 0.260172
+second image is ./pgm_sample/2.avi/00000220.pgm 221
+0.446685 0.283391
+second image is ./pgm_sample/2.avi/00000221.pgm 222
+0.449744 0.287181
+second image is ./pgm_sample/2.avi/00000222.pgm 223
+0.301665 0.303474
+second image is ./pgm_sample/2.avi/00000223.pgm 224
+0.271040 0.713858
+second image is ./pgm_sample/2.avi/00000224.pgm 225
+0.869337 0.483519
+second image is ./pgm_sample/2.avi/00000225.pgm 226
+0.855962 0.485202
+second image is ./pgm_sample/2.avi/00000226.pgm 227
+0.340805 0.328527
+second image is ./pgm_sample/2.avi/00000227.pgm 228
+0.347612 0.543218
+second image is ./pgm_sample/2.avi/00000228.pgm 229
+0.398233 0.543245
+second image is ./pgm_sample/2.avi/00000229.pgm 230
+0.373830 0.301409
+second image is ./pgm_sample/2.avi/00000230.pgm 231
+0.357616 0.236149
+second image is ./pgm_sample/2.avi/00000231.pgm 232
+0.298458 0.203608
+second image is ./pgm_sample/2.avi/00000232.pgm 233
+0.398590 0.263870
+second image is ./pgm_sample/2.avi/00000233.pgm 234
+0.388021 0.288468
+second image is ./pgm_sample/2.avi/00000234.pgm 235
+0.302024 0.175286
+second image is ./pgm_sample/2.avi/00000235.pgm 236
+0.400851 0.267623
+second image is ./pgm_sample/2.avi/00000236.pgm 237
+0.185944 0.309569
+second image is ./pgm_sample/2.avi/00000237.pgm 238
+0.401036 0.283629
+second image is ./pgm_sample/2.avi/00000238.pgm 239
+0.456174 0.138763
+second image is ./pgm_sample/2.avi/00000239.pgm 240
+0.286678 0.222293
+second image is ./pgm_sample/2.avi/00000240.pgm 241
+0.240563 0.976488
+second image is ./pgm_sample/2.avi/00000241.pgm 242
+0.373821 0.253285
+second image is ./pgm_sample/2.avi/00000242.pgm 243
+0.329209 0.168271
+second image is ./pgm_sample/2.avi/00000243.pgm 244
+0.472046 0.214204
+second image is ./pgm_sample/2.avi/00000244.pgm 245
+1.050066 0.528356
+second image is ./pgm_sample/2.avi/00000245.pgm 246
+1.035611 0.525905
+second image is ./pgm_sample/2.avi/00000246.pgm 247
+0.345654 0.138429
+second image is ./pgm_sample/2.avi/00000247.pgm 248
+0.350234 0.235283
+second image is ./pgm_sample/2.avi/00000248.pgm 249
+0.304702 0.237929
+second image is ./pgm_sample/2.avi/00000249.pgm 250
+0.292592 0.169153
+second image is ./pgm_sample/2.avi/00000250.pgm 251
+0.311457 0.217713
+second image is ./pgm_sample/2.avi/00000251.pgm 252
+0.259449 1.245751
+second image is ./pgm_sample/2.avi/00000252.pgm 253
+0.438626 0.261898
+second image is ./pgm_sample/2.avi/00000253.pgm 254
+0.441153 0.275222
+second image is ./pgm_sample/2.avi/00000254.pgm 255
+0.307104 0.142110
+second image is ./pgm_sample/2.avi/00000255.pgm 256
+0.259409 0.709778
+second image is ./pgm_sample/2.avi/00000256.pgm 257
+4.544310 0.345871
+second image is ./pgm_sample/2.avi/00000257.pgm 258
+4.484670 0.338985
+second image is ./pgm_sample/2.avi/00000258.pgm 259
+0.346980 0.338951
+second image is ./pgm_sample/2.avi/00000259.pgm 260
+0.355465 0.520827
+second image is ./pgm_sample/2.avi/00000260.pgm 261
+0.348143 0.520804
+second image is ./pgm_sample/2.avi/00000261.pgm 262
+0.306580 0.202788
+second image is ./pgm_sample/2.avi/00000262.pgm 263
+0.307468 0.194866
+second image is ./pgm_sample/2.avi/00000263.pgm 264
+0.258822 0.189138
+second image is ./pgm_sample/2.avi/00000264.pgm 265
+0.507578 0.669141
+second image is ./pgm_sample/2.avi/00000265.pgm 266
+0.335169 0.698883
+second image is ./pgm_sample/2.avi/00000266.pgm 267
+0.508145 0.599384
+second image is ./pgm_sample/2.avi/00000267.pgm 268
+0.502456 0.583018
+second image is ./pgm_sample/2.avi/00000268.pgm 269
+0.489259 0.670470
+second image is ./pgm_sample/2.avi/00000269.pgm 270
+0.358107 0.337853
+second image is ./pgm_sample/2.avi/00000270.pgm 271
+0.343790 0.312645
+second image is ./pgm_sample/2.avi/00000271.pgm 272
+0.564771 1.411667
+second image is ./pgm_sample/2.avi/00000272.pgm 273
+0.850413 1.418403
+second image is ./pgm_sample/2.avi/00000273.pgm 274
+0.851959 0.461997
+second image is ./pgm_sample/2.avi/00000274.pgm 275
+0.335179 0.186578
+second image is ./pgm_sample/2.avi/00000275.pgm 276
+0.468843 0.212700
+second image is ./pgm_sample/2.avi/00000276.pgm 277
+0.647318 1.789968
+second image is ./pgm_sample/2.avi/00000277.pgm 278
+0.594027 1.769881
+second image is ./pgm_sample/2.avi/00000278.pgm 279
+0.464240 0.752437
+second image is ./pgm_sample/2.avi/00000279.pgm 280
+0.563849 1.347905
+second image is ./pgm_sample/2.avi/00000280.pgm 281
+0.570023 1.344063
+second image is ./pgm_sample/2.avi/00000281.pgm 282
+0.366010 0.413198
+second image is ./pgm_sample/2.avi/00000282.pgm 283
+0.343819 0.138464
+second image is ./pgm_sample/2.avi/00000283.pgm 284
+0.428552 0.406535
+second image is ./pgm_sample/2.avi/00000284.pgm 285
+0.382523 0.388657
+second image is ./pgm_sample/2.avi/00000285.pgm 286
+0.356630 0.324876
+second image is ./pgm_sample/2.avi/00000286.pgm 287
+0.292936 0.231393
+second image is ./pgm_sample/2.avi/00000287.pgm 288
+0.263044 0.335249
+second image is ./pgm_sample/2.avi/00000288.pgm 289
+0.231680 0.333820
+second image is ./pgm_sample/2.avi/00000289.pgm 290
+0.348056 0.338705
+second image is ./pgm_sample/2.avi/00000290.pgm 291
+0.486428 0.358488
+second image is ./pgm_sample/2.avi/00000291.pgm 292
+0.456264 0.484862
+second image is ./pgm_sample/2.avi/00000292.pgm 293
+0.584577 0.484767
+second image is ./pgm_sample/2.avi/00000293.pgm 294
+0.549275 0.324476
+second image is ./pgm_sample/2.avi/00000294.pgm 295
+0.343765 0.294838
+second image is ./pgm_sample/2.avi/00000295.pgm 296
+0.258900 0.306089
+second image is ./pgm_sample/2.avi/00000296.pgm 297
+0.381406 0.348256
+second image is ./pgm_sample/2.avi/00000297.pgm 298
+0.611078 0.436871
+second image is ./pgm_sample/2.avi/00000298.pgm 299
+1.761118 1.373874
+second image is ./pgm_sample/2.avi/00000299.pgm 300
+0.271015 0.178729
+second image is ./pgm_sample/2.avi/00000300.pgm 301
+0.542387 0.422586
+second image is ./pgm_sample/2.avi/00000301.pgm 302
+1.049686 0.408512
+second image is ./pgm_sample/2.avi/00000302.pgm 303
+0.497673 0.287501

@@ -46,9 +46,7 @@ void render_foe(struct image *small, struct image *big,
    {
       for(j=centery-20; j <= centery+20; j++)
       {
-          if(i % 2 == 0 && j % 2 == 0) {
               big->s[i][j] = 255;
-          }
       }
    }
 

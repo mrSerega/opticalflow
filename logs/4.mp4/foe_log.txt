@@ -1,0 +1,72 @@
+second image is ./pgm_sample/4.mp4/00000002.pgm 3
+0.108504 0.052170
+second image is ./pgm_sample/4.mp4/00000003.pgm 4
+0.044458 0.049070
+second image is ./pgm_sample/4.mp4/00000004.pgm 5
+0.044132 0.047232
+second image is ./pgm_sample/4.mp4/00000005.pgm 6
+0.032924 0.057793
+second image is ./pgm_sample/4.mp4/00000006.pgm 7
+0.038637 0.057493
+second image is ./pgm_sample/4.mp4/00000007.pgm 8
+0.043541 0.071070
+second image is ./pgm_sample/4.mp4/00000008.pgm 9
+0.068176 0.106779
+second image is ./pgm_sample/4.mp4/00000009.pgm 10
+0.070520 0.103730
+second image is ./pgm_sample/4.mp4/00000010.pgm 11
+0.089920 0.124998
+second image is ./pgm_sample/4.mp4/00000011.pgm 12
+0.092590 0.071930
+second image is ./pgm_sample/4.mp4/00000012.pgm 13
+0.224604 0.160420
+second image is ./pgm_sample/4.mp4/00000013.pgm 14
+0.214916 0.150137
+second image is ./pgm_sample/4.mp4/00000014.pgm 15
+0.474760 0.230256
+second image is ./pgm_sample/4.mp4/00000015.pgm 16
+0.483422 0.218612
+second image is ./pgm_sample/4.mp4/00000016.pgm 17
+1.371867 0.590816
+second image is ./pgm_sample/4.mp4/00000017.pgm 18
+1.363417 0.592702
+second image is ./pgm_sample/4.mp4/00000018.pgm 19
+0.393767 0.316552
+second image is ./pgm_sample/4.mp4/00000019.pgm 20
+0.320777 0.320589
+second image is ./pgm_sample/4.mp4/00000020.pgm 21
+4.705472 4.670664
+second image is ./pgm_sample/4.mp4/00000021.pgm 22
+4.730558 4.670419
+second image is ./pgm_sample/4.mp4/00000022.pgm 23
+4.779537 4.717963
+second image is ./pgm_sample/4.mp4/00000023.pgm 24
+4.709607 4.729605
+second image is ./pgm_sample/4.mp4/00000024.pgm 25
+4.483338 0.453858
+second image is ./pgm_sample/4.mp4/00000025.pgm 26
+1.004044 0.446804
+second image is ./pgm_sample/4.mp4/00000026.pgm 27
+0.627602 0.454264
+second image is ./pgm_sample/4.mp4/00000027.pgm 28
+1.049470 1.775766
+second image is ./pgm_sample/4.mp4/00000028.pgm 29
+1.052019 1.782972
+second image is ./pgm_sample/4.mp4/00000029.pgm 30
+0.445518 1.226939
+second image is ./pgm_sample/4.mp4/00000030.pgm 31
+0.477724 1.226845
+second image is ./pgm_sample/4.mp4/00000031.pgm 32
+0.657641 0.585428
+second image is ./pgm_sample/4.mp4/00000032.pgm 33
+1.101627 0.599676
+second image is ./pgm_sample/4.mp4/00000033.pgm 34
+1.460982 0.824519
+second image is ./pgm_sample/4.mp4/00000034.pgm 35
+1.578198 1.322244
+second image is ./pgm_sample/4.mp4/00000035.pgm 36
+0.992867 0.822734
+second image is ./pgm_sample/4.mp4/00000036.pgm 37
+0.724146 0.693232
+second image is ./pgm_sample/4.mp4/00000037.pgm 38
+0.698453 0.369545

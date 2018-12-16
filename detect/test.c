@@ -97,7 +97,7 @@ int main(int argc, char** argv)
       }
 
       render_needles(sub1, first, uv2);
-      render_foe(sub1, first, uv2);
+      // render_foe(sub1, first, uv2);
 
       char filename[512];
       sprintf(filename, "%s%.6d.pgm", argv[1], m-2);
