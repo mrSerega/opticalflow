@@ -16,7 +16,7 @@ The included video2images.sh script and jpegtoavi binaries can aid in
 converting a video to a series of PGM files.
 
 # How to build and use
-1. You need to install Mingw utils (not for Windows)
-2. You need to install MPlayer (not for Windows)
-3. Use `make Makefile` (not for Windows)
+1. You need to install Mingw utils (if you need to rebuild project)
+2. You need to install MPlayer (one version in repo)
+3. Use `make Makefile` (if you need to rebuild project)
 4. Use `start.sh <videioFile.name>`
