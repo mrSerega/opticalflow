@@ -1,302 +1,606 @@
-['draw_foe.py', '5.avi', 'online']
-['second', 'image', 'is', './pgm_sample/5.avi/00000002.pgm', '3\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000003.pgm', '4\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000004.pgm', '5\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000005.pgm', '6\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000006.pgm', '7\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000007.pgm', '8\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000008.pgm', '9\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000009.pgm', '10\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000010.pgm', '11\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000011.pgm', '12\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000012.pgm', '13\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000013.pgm', '14\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000014.pgm', '15\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000015.pgm', '16\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000016.pgm', '17\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000017.pgm', '18\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000018.pgm', '19\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000019.pgm', '20\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000020.pgm', '21\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000021.pgm', '22\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000022.pgm', '23\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000023.pgm', '24\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000024.pgm', '25\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000025.pgm', '26\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000026.pgm', '27\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000027.pgm', '28\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000028.pgm', '29\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000029.pgm', '30\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000030.pgm', '31\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000031.pgm', '32\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000032.pgm', '33\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000033.pgm', '34\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000034.pgm', '35\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000035.pgm', '36\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000036.pgm', '37\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000037.pgm', '38\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000038.pgm', '39\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000039.pgm', '40\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000040.pgm', '41\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000041.pgm', '42\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000042.pgm', '43\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000043.pgm', '44\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000044.pgm', '45\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000045.pgm', '46\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000046.pgm', '47\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000047.pgm', '48\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000048.pgm', '49\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000049.pgm', '50\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000050.pgm', '51\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000051.pgm', '52\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000052.pgm', '53\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000053.pgm', '54\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000054.pgm', '55\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000055.pgm', '56\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000056.pgm', '57\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000057.pgm', '58\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000058.pgm', '59\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000059.pgm', '60\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000060.pgm', '61\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000061.pgm', '62\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000062.pgm', '63\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000063.pgm', '64\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000064.pgm', '65\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000065.pgm', '66\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000066.pgm', '67\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000067.pgm', '68\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000068.pgm', '69\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000069.pgm', '70\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000070.pgm', '71\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000071.pgm', '72\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000072.pgm', '73\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000073.pgm', '74\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000074.pgm', '75\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000075.pgm', '76\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000076.pgm', '77\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000077.pgm', '78\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000078.pgm', '79\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000079.pgm', '80\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000080.pgm', '81\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000081.pgm', '82\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000082.pgm', '83\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000083.pgm', '84\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000084.pgm', '85\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000085.pgm', '86\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000086.pgm', '87\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000087.pgm', '88\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000088.pgm', '89\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000089.pgm', '90\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000090.pgm', '91\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000091.pgm', '92\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000092.pgm', '93\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000093.pgm', '94\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000094.pgm', '95\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000095.pgm', '96\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000096.pgm', '97\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000097.pgm', '98\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000098.pgm', '99\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000099.pgm', '100\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000100.pgm', '101\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000101.pgm', '102\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000102.pgm', '103\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000103.pgm', '104\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000104.pgm', '105\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000105.pgm', '106\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000106.pgm', '107\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000107.pgm', '108\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000108.pgm', '109\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000109.pgm', '110\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000110.pgm', '111\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000111.pgm', '112\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000112.pgm', '113\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000113.pgm', '114\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000114.pgm', '115\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000115.pgm', '116\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000116.pgm', '117\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000117.pgm', '118\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000118.pgm', '119\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000119.pgm', '120\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000120.pgm', '121\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000121.pgm', '122\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000122.pgm', '123\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000123.pgm', '124\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000124.pgm', '125\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000125.pgm', '126\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000126.pgm', '127\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000127.pgm', '128\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000128.pgm', '129\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000129.pgm', '130\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000130.pgm', '131\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000131.pgm', '132\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000132.pgm', '133\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000133.pgm', '134\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000134.pgm', '135\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000135.pgm', '136\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000136.pgm', '137\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000137.pgm', '138\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000138.pgm', '139\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000139.pgm', '140\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000140.pgm', '141\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000141.pgm', '142\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000142.pgm', '143\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000143.pgm', '144\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000144.pgm', '145\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000145.pgm', '146\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000146.pgm', '147\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000147.pgm', '148\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000148.pgm', '149\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000149.pgm', '150\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000150.pgm', '151\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000151.pgm', '152\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000152.pgm', '153\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000153.pgm', '154\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000154.pgm', '155\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000155.pgm', '156\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000156.pgm', '157\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000157.pgm', '158\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000158.pgm', '159\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000159.pgm', '160\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000160.pgm', '161\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000161.pgm', '162\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000162.pgm', '163\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000163.pgm', '164\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000164.pgm', '165\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000165.pgm', '166\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000166.pgm', '167\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000167.pgm', '168\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000168.pgm', '169\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000169.pgm', '170\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000170.pgm', '171\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000171.pgm', '172\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000172.pgm', '173\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000173.pgm', '174\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000174.pgm', '175\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000175.pgm', '176\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000176.pgm', '177\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000177.pgm', '178\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000178.pgm', '179\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000179.pgm', '180\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000180.pgm', '181\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000181.pgm', '182\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000182.pgm', '183\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000183.pgm', '184\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000184.pgm', '185\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000185.pgm', '186\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000186.pgm', '187\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000187.pgm', '188\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000188.pgm', '189\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000189.pgm', '190\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000190.pgm', '191\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000191.pgm', '192\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000192.pgm', '193\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000193.pgm', '194\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000194.pgm', '195\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000195.pgm', '196\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000196.pgm', '197\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000197.pgm', '198\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000198.pgm', '199\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000199.pgm', '200\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000200.pgm', '201\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000201.pgm', '202\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000202.pgm', '203\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000203.pgm', '204\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000204.pgm', '205\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000205.pgm', '206\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000206.pgm', '207\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000207.pgm', '208\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000208.pgm', '209\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000209.pgm', '210\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000210.pgm', '211\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000211.pgm', '212\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000212.pgm', '213\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000213.pgm', '214\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000214.pgm', '215\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000215.pgm', '216\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000216.pgm', '217\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000217.pgm', '218\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000218.pgm', '219\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000219.pgm', '220\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000220.pgm', '221\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000221.pgm', '222\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000222.pgm', '223\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000223.pgm', '224\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000224.pgm', '225\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000225.pgm', '226\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000226.pgm', '227\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000227.pgm', '228\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000228.pgm', '229\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000229.pgm', '230\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000230.pgm', '231\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000231.pgm', '232\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000232.pgm', '233\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000233.pgm', '234\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000234.pgm', '235\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000235.pgm', '236\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000236.pgm', '237\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000237.pgm', '238\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000238.pgm', '239\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000239.pgm', '240\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000240.pgm', '241\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000241.pgm', '242\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000242.pgm', '243\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000243.pgm', '244\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000244.pgm', '245\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000245.pgm', '246\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000246.pgm', '247\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000247.pgm', '248\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000248.pgm', '249\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000249.pgm', '250\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000250.pgm', '251\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000251.pgm', '252\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000252.pgm', '253\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000253.pgm', '254\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000254.pgm', '255\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000255.pgm', '256\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000256.pgm', '257\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000257.pgm', '258\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000258.pgm', '259\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000259.pgm', '260\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000260.pgm', '261\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000261.pgm', '262\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000262.pgm', '263\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000263.pgm', '264\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000264.pgm', '265\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000265.pgm', '266\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000266.pgm', '267\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000267.pgm', '268\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000268.pgm', '269\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000269.pgm', '270\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000270.pgm', '271\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000271.pgm', '272\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000272.pgm', '273\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000273.pgm', '274\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000274.pgm', '275\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000275.pgm', '276\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000276.pgm', '277\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000277.pgm', '278\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000278.pgm', '279\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000279.pgm', '280\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000280.pgm', '281\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000281.pgm', '282\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000282.pgm', '283\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000283.pgm', '284\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000284.pgm', '285\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000285.pgm', '286\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000286.pgm', '287\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000287.pgm', '288\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000288.pgm', '289\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000289.pgm', '290\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000290.pgm', '291\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000291.pgm', '292\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000292.pgm', '293\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000293.pgm', '294\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000294.pgm', '295\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000295.pgm', '296\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000296.pgm', '297\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000297.pgm', '298\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000298.pgm', '299\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000299.pgm', '300\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000300.pgm', '301\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000301.pgm', '302\n']
-['second', 'image', 'is', './pgm_sample/5.avi/00000302.pgm', '303\n']
+['draw_foe.py', '5.avi', 'offline']
+0.5 0.5
+0.098304 0.072420
+
+0.044990 0.057234
+
+0.053409 0.072939
+
+0.097693 0.072231
+
+0.606559 0.478601
+
+0.316600 0.518053
+
+3.437835 3.516160
+
+0.664474 1.076777
+
+0.657189 1.076770
+
+0.655322 1.075051
+
+0.699402 1.083461
+
+0.412292 1.295128
+
+0.711789 1.274130
+
+0.747840 1.106162
+
+0.225631 0.409496
+
+0.265164 0.557113
+
+0.760167 1.236629
+
+0.593139 0.481333
+
+0.220411 0.374837
+
+0.201435 0.615397
+
+0.339968 0.740380
+
+0.255805 0.742301
+
+0.431408 0.411321
+
+0.435223 0.440714
+
+1.232740 0.236129
+
+1.214083 0.243532
+
+1.015018 3.846121
+
+4.813078 16.384613
+
+9.227698 9.423254
+
+2.413872 2.325922
+
+0.648632 0.838795
+
+0.659420 0.483787
+
+1.464865 0.623561
+
+3.151954 3.233688
+
+3.195114 3.192283
+
+3.207346 3.235800
+
+3.234208 3.278434
+
+0.391817 0.309264
+
+53.542873 57.442589
+
+0.800576 0.869398
+
+2.512930 2.570104
+
+1.385534 0.648513
+
+1.172084 1.165860
+
+0.496745 0.625125
+
+2.629378 2.448078
+
+3.218870 3.238072
+
+0.441489 1.602562
+
+0.434810 0.992577
+
+2.525132 2.603314
+
+0.399575 0.384260
+
+0.616050 0.343356
+
+0.603171 0.942906
+
+2.572114 2.535916
+
+0.428217 2.046272
+
+3.276401 3.146020
+
+4.469878 3.402607
+
+1.274554 3.883500
+
+0.374003 1.065646
+
+0.648463 0.373307
+
+0.380831 0.358785
+
+2.575864 2.529636
+
+3.167943 3.201900
+
+0.331873 0.224269
+
+0.410065 0.533509
+
+2.577456 2.523274
+
+0.374341 0.793879
+
+0.385047 0.380115
+
+0.777795 0.847061
+
+2.563771 2.493409
+
+0.477342 0.798727
+
+0.469017 0.782971
+
+0.748962 0.504239
+
+2.563715 2.493404
+
+0.498584 0.290887
+
+3.026960 3.040658
+
+0.904605 1.048854
+
+2.547616 2.502584
+
+0.516004 0.262843
+
+0.751634 0.429089
+
+0.752295 2.750636
+
+2.547473 2.711075
+
+1.291549 1.892100
+
+1.277356 3.818152
+
+0.515877 1.158602
+
+2.547055 2.495238
+
+0.537002 0.411786
+
+1.267523 3.844126
+
+0.696658 0.516157
+
+2.538681 2.488539
+
+0.481313 0.257895
+
+0.487693 0.790177
+
+0.911893 0.891629
+
+2.537073 2.487792
+
+0.310464 0.558880
+
+2.525657 2.473902
+
+0.312218 0.197550
+
+2.535458 3.040092
+
+0.526127 0.409863
+
+0.729070 0.759849
+
+0.801780 0.872825
+
+2.535974 3.091071
+
+0.249986 0.347096
+
+1.254198 3.808425
+
+0.745703 1.108205
+
+2.538689 3.038949
+
+0.706447 0.340938
+
+0.444616 0.353204
+
+0.355359 0.185061
+
+2.530908 3.005471
+
+0.511498 0.387719
+
+1.257011 3.831063
+
+0.877777 3.342175
+
+2.532417 3.294811
+
+1.786787 1.721779
+
+1.784139 1.721904
+
+0.541697 1.233793
+
+2.532679 2.630456
+
+0.310608 0.462372
+
+0.785378 0.457285
+
+3.024896 3.015523
+
+3.027532 3.013614
+
+0.450391 0.188280
+
+1.274406 3.815831
+
+0.594154 1.017771
+
+2.531712 2.933071
+
+0.448274 0.556782
+
+2.529860 2.480417
+
+0.563697 0.402697
+
+2.530034 2.933246
+
+0.449118 0.339797
+
+0.567356 0.339729
+
+0.684279 0.879023
+
+2.443541 2.380103
+
+0.405465 0.845869
+
+0.430444 0.458228
+
+0.583675 1.120934
+
+2.442893 2.386360
+
+0.422404 0.350164
+
+2.383262 2.377872
+
+0.328079 1.089270
+
+2.443710 2.380085
+
+0.331956 0.213875
+
+2.443585 2.390013
+
+0.458994 3.341316
+
+2.449067 3.287047
+
+1.303590 0.945265
+
+1.304711 0.943203
+
+0.783736 0.342195
+
+2.449440 2.379042
+
+0.451628 0.295391
+
+1.248408 3.603204
+
+0.687498 0.941717
+
+2.449555 2.379102
+
+0.358670 0.226281
+
+0.301709 0.397202
+
+0.631774 1.030261
+
+2.449868 2.379158
+
+0.445362 0.573762
+
+2.423551 2.382420
+
+0.492700 0.245417
+
+2.450104 2.379196
+
+0.586264 0.257431
+
+0.490846 0.434340
+
+0.713469 0.879028
+
+2.419678 2.421309
+
+0.462608 0.844286
+
+1.234852 3.646522
+
+1.061903 1.106683
+
+2.417971 2.423637
+
+0.355258 0.264980
+
+2.401308 2.407888
+
+0.560844 1.097374
+
+2.418852 2.418607
+
+0.326362 0.226339
+
+2.389917 2.419449
+
+0.604010 2.766912
+
+2.421205 2.728765
+
+1.309259 0.954412
+
+1.282729 0.933352
+
+2.395978 1.478871
+
+2.421156 2.420314
+
+0.462081 0.231692
+
+2.417369 2.418563
+
+3.113894 2.958576
+
+3.103253 2.962048
+
+1.143905 0.572462
+
+1.133123 1.471278
+
+1.091216 1.044668
+
+2.420837 2.420209
+
+0.513231 0.493555
+
+2.389114 2.419116
+
+0.574289 0.538800
+
+2.419857 2.420350
+
+0.567847 0.275710
+
+2.442256 2.412503
+
+0.487473 0.882622
+
+2.419402 2.426075
+
+0.529961 0.843472
+
+0.494035 0.390341
+
+0.484246 0.726484
+
+2.420509 2.419872
+
+0.541681 0.520691
+
+3.030420 3.002440
+
+1.232940 1.083074
+
+2.419263 2.426158
+
+0.643402 0.227294
+
+0.643644 0.793466
+
+0.589315 2.750654
+
+2.419810 2.712247
+
+0.354102 0.577068
+
+1.241266 3.643603
+
+0.474315 0.376968
+
+2.420682 2.419625
+
+0.264211 0.227652
+
+0.392423 0.364018
+
+3.021713 3.067268
+
+3.025825 3.065235
+
+0.536395 0.241764
+
+1.237726 3.646282
+
+0.605530 0.423724
+
+2.421231 2.419796
+
+0.551004 0.184159
+
+1.248175 3.647418
+
+0.491056 0.362941
+
+2.418933 2.418140
+
+0.182213 0.235044
+
+1.231017 3.636251
+
+0.569225 0.883643
+
+2.418232 2.418106
+
+0.406226 0.845217
+
+2.408660 2.420278
+
+1.304358 1.104708
+
+2.416393 2.418774
+
+0.476072 0.403191
+
+2.972777 3.651047
+
+1.351053 1.104335
+
+2.414864 2.418556
+
+0.330372 0.405915
+
+2.376191 2.454844
+
+1.398585 3.387572
+
+2.416180 3.347585
+
+0.361404 0.552265
+
+0.395443 0.541661
+
+0.236200 0.389330
+
+2.416389 2.418749
+
+0.549573 0.203772
+
+0.542196 0.277018
+
+2.939107 2.992446
+
+2.943190 2.992374
+
+0.474046 0.415559
+
+1.236797 3.651857
+
+1.449521 1.150882
+
+2.417939 2.420283
+
+0.189846 0.259355
+
+0.333203 0.454565
+
+0.549366 0.430879
+
+2.418161 2.420328
+
+0.324914 0.416390
+
+0.381796 0.796106
+
+1.457820 1.150661
+
+2.418007 2.420285
+
+0.495174 0.850273
+
+0.583163 0.447636
+
+0.552200 0.732332
+
+2.417952 2.420276
+
+0.546994 0.433845
+
+3.026368 2.995056
+
+1.333135 1.110345
+
+2.417190 2.420269
+
+0.495606 0.402411
+
+1.231746 3.646720
+
+1.260143 1.086015
+
+2.416136 2.419390
+
+0.358821 0.563086
+
+1.241239 3.645147
+
+0.222144 0.968629
+
+2.416072 2.419381
+
+0.206062 0.204452
+
+1.220651 0.496698
+
+3.045011 3.059431
+
+3.040144 3.059680
+
+0.192699 0.410431
+
+1.240912 3.646935
+
+1.273042 1.115111
+
+2.417470 2.422001
+
+0.572546 0.278444
+
+0.582771 0.379170
+
+0.323514 0.368305
+
+2.418532 2.416028
+
+0.375765 0.791305
+
+0.374823 0.791690
+
+0.354571 0.881970
+
+2.418366 2.415949
+
+0.322238 0.402456
+
+2.383774 2.452390
+
+1.344193 1.174120
+
+2.418592 2.416036
+
+0.322854 0.429951
+
+0.308329 0.773399
+
+1.278127 1.174970
+
+2.418147 2.415903
+
+cor:
+(0.4575184, 0.5121635846153846)

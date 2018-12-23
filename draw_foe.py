@@ -23,13 +23,24 @@ else:
 
 LOG_PATH = sys.argv[1]
 
+goodDot = sys.argv[1].split('.')[0]
+goodDot = './samples/{}.txt'.format(goodDot)
+goodDot = open(goodDot, 'r').read()
+gx, gy = goodDot.split(' ')
+gx = float(gx)
+gy = float(gy)
+print (goodDot)
+
 LOG_FILE_NAME = './logs/{}/foe_log.txt'.format(LOG_PATH)
 RED = (0,0,255)
+GREEN = (0,255,0)
 RADIUS = 20
 THICKNESS = 2
 WAIT = 100
 
 log = open(LOG_FILE_NAME, 'r')
+
+
 
 if MODE == OFFLINE:
     for line in log:
@@ -43,7 +54,6 @@ if MODE == OFFLINE:
             cor.append((tempX,1-tempY))
         if line[0] == 's':
             l = line.split(' ')
-            print(l)
             filename.append(l[-2])
 
     x = 0
@@ -63,6 +73,7 @@ if MODE == OFFLINE:
         h = image.shape[0]
         w = image.shape[1]
         cv.circle(image, (int(w * x), int(h* y)), RADIUS ,RED, THICKNESS)
+        cv.circle(image, (int(w * gx), int(h * gy)), RADIUS, GREEN, THICKNESS )
         cv.imshow('test',image)
         cv.waitKey(WAIT)
 
@@ -88,6 +99,7 @@ if MODE == ONLINE:
         h = image.shape[0]
         w = image.shape[1]
         cv.circle(image, (int(w * x), int(h* y)), RADIUS ,RED, THICKNESS)
+        cv.circle(image, (int(w * gx), int(h * gy)), RADIUS, GREEN, THICKNESS )
         cv.imshow('test',image)
         cv.waitKey(WAIT)
 
