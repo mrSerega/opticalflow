@@ -19,4 +19,5 @@ converting a video to a series of PGM files.
 1. You need to install Mingw utils (if you need to rebuild project)
 2. You need to install MPlayer (one version in repo)
 3. Use `make Makefile` (if you need to rebuild project)
-4. Use `start.sh <videioFile.name>`
+4. Use `start.sh` to start programm
+5. Use `opt.py` to find best argumnets of algorithm
